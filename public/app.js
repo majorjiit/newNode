@@ -1,0 +1,1 @@
+angular.module('MyApp',['mainCtrl','authServices','appRoutes']);
